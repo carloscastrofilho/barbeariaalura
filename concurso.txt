@@ -1,0 +1,27 @@
+HTML avançado: dados tabulares complexos, 
+elementos semânticos, 
+incorporação de mídia. 
+CSS avançado: 
+seletores avançados, pseudo–classes, pseudo–elementos, 
+importação de fontes personalizadas, 
+estilização avançada de formulários, 
+técnicas de posicionamento, 
+layout em blocos flexíveis (Flexible Box Layout Module) 
+e em grade (Grid Layout Module). 
+Internacionalização (i18n).
+
+
+
+1) EXAME DIDÁTICO
+– O Exame Didático obedecerá a uma escala de 0 (zero) a 10 (dez) pontos, com uma casa decimal, 
+    e será de caráter eliminatório.
+
+– No exame didático, a nota será atribuída pela análise dos seguintes pontos:
+– Domínio do conteúdo: de 0,0 a 2,5;
+– Desempenho didático: de 0,0 a 2,5;
+– Utilização adequada do tempo: de 0,0 a 1,0;
+– Comunicação, clareza, pertinência e objetividade: de 0,0 a 1,5;
+– Estruturação do plano de aula: de 0,0 a 1,0;
+– Coerência entre os objetivos previstos no plano de aula e os conteúdos desenvolvidos: de 0,0 a 1,5.
+
+– Atribuir–se–á nota 0 (zero) ao candidato que recusar a ministrar a aula didática perante a Comissão Julgadora.
